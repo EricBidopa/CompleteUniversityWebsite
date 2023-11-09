@@ -9,5 +9,5 @@ function hideMenu(){
     navLinks.style.right = "-200px";
 }
 
-
+// This was way before I even started coding
 // ++EAJ++
